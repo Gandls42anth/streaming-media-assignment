@@ -1,4 +1,3 @@
-const { debug } = require('console');
 const http = require('http');
 const htmlHandler = require('./htmlResponses.js');
 const mediaHandler = require('./mediaResponses.js');
